@@ -1,0 +1,239 @@
+As previously mentioned, the Republic, being the first interstellar state, also made Old Republican Standard the blueprint for interstellar languages. Today, nearly all interstellar languages derive from Old Republican, although they have evolved independently. For example, later-founded colonies—whether from Earth or from other colonies—retained vocabulary and phonemes from their native cultures and developed their own language habits and preferences. As a result, people from different countries and regions can generally engage in basic communication without translation, due to shared linguistic roots; however, without translation, confusion and miscommunication still occur due to phonetic and habitual differences.
+
+The Republic's own language evolution emphasizes efficiency and simplification, as the REALITY system rejects formalism. Highly formal or bureaucratic language only burdens the Republic’s heavy agendas, so linguistic habits became more direct and straightforward. As a side effect, many phonemes were replaced, such as trilled 'r's being converted into 'r' or 'z', and the "th" sound becoming 's' or 'z', etc. These types of pronunciation shifts are strongly regional, effectively forming dialects within the Republic itself.
+
+The Empire, by contrast, underwent flexible expansion that allowed the absorption of many cultures. Its central political system emphasizes merit regardless of origin, and as a result, elite figures from various backgrounds flowed into the imperial core, bringing along diverse phonemes and practical vocabulary/roots, which were often incorporated wholesale. This led to a considerable portion of the imperial core population being multilingual to varying degrees.
+
+In Republican Standard, there is no case of a vowel having multiple readings; each vowel sound is assigned its own unique letter, with a one-to-one correspondence between spelling and pronunciation. When transliterated into modern English, two acceptable forms exist: one more formal using diacritics (accents), and one more typing-friendly using digraphs (e.g., “ae”), even though these count as one letter in Republican orthography.
+
+Some consonants in Republican exist that are absent in English or behave quite differently, and while they take only one letter in Republican, they are transcribed using English digraphs for convenience. A glottal stop separator (apostrophe) is used in English transcription to prevent ambiguity.
+
+The timeline of this work is far removed from both the era of space colonization and the founding of the Republic. Thus, most vocabulary has diverged entirely from Earth languages, and only a small fraction of words can trace their origins to Earth languages like English, French, or Chinese—typically those relating to artifacts of that time. Even then, spelling is reformed. For instance, the Republican phrase for “monumental plaque” becomes plak monyumenthes.
+
+Grammar Structure:
+
+Republican vocabulary has no tense-based conjugation like in English, but relies on suffixes and context to convey time, much like Chinese ("just went to cook" / "already finished cooking"). Republican conjugation instead focuses on semantic shifts—emphasizing structural changes and stakeholder relations. Thus, while it does allow the conversion between noun, verb, adjective, and adverb, there are no irregular transformations—only elisions for phonetic flow.
+
+For example:
+
+To verb: +en
+
+To noun: +te
+
+To adjective (possessive/attributive): +thes
+
+To adverb: +thesis (recursive form of thes, i.e., “having the quality of having a quality,” used for recursion and adverbial use)
+
+Recursive verb: enen (to verbify a verb)
+
+Recursive noun: tete (to nounify a noun)
+
+For state-change suffixes:
+A root change + object being changed produces three basic inflections (technically stative inflections):
+
+Potential state: +vrin
+
+Progressive state: +thenos
+
+Possessive/Attributive state: +thes
+
+Using thenae (to change) as an example root:
+
+Thenaevrin = can potentially change
+
+Thenaethenos = is in the process of changing
+
+Thenaethes = is changeable (possesses the quality of being changeable)
+
+Negated/reversed states are formed with the prefix ark- (from arktin, meaning opposite):
+
+Thenaearkvrin = has the potential to no longer change
+
+Stacking multiple suffixes is always right-to-left in execution:
+
+Thenaevrinen = the act of making something potentially changeable
+
+Thenaeenvrin = the potential to produce the act of change
+
+More intuitive alternative: enaren (a general verb like “do/make” + inflection + object), e.g.,
+
+Enaren Thenaevrin ≈ Thenaevrinen
+
+Additional suffixes describe objects being changed:
+
+Completed state: +um
+
+Interrupted/suspended state: +ucen
+
+Failed change state: +utus
+
+Agency & Grammar:
+
+Pronouns and verbs have active and receptive forms (active/passive).
+
+Passive verb: +dh
+
+Passive pronoun: +ng
+
+For example:
+
+Voro = I
+
+Sero = you
+
+Sarunil = agreement
+
+Voro thenaeen serong = I change you
+
+Serong thenaeendh voro = You are changed by me
+
+Voro thenaeen sarunilum = I completed the change to the agreement
+
+Sarunilutus thenaeendh voro = The agreement was unsuccessfully changed by me
+
+Possession is not shown through conjugation, but via the particle ngeh (/ŋɛ/), similar to “'s” or Chinese 的.
+
+Five pronouns:
+
+voro (I)
+
+sero (you)
+
+tharo (he/she/it with referent)
+
+kuro (it/unspecified or placeholder, e.g., “fuck it”)
+
+lero (that which/who/whomever)
+
+Plural: voraes, seraes, etc.
+Exclusive “we” = voraeste (excluding interlocutor)
+Reflexive = +ith (e.g., voroith = myself)
+
+Additional suffixes:
+
+aes: the entire domain or all extensions of a concept
+
+nel: conceptual network beyond its core
+
+imn: concrete instance of an abstract domain
+
+ern: bearer or assigner of a concept (like having a trait, often interchangeable with thes)
+
+del: underlying principle (like the integral function behind a right—e.g., the responsibility that gives rise to a right)
+
+var: consequential derivative of a concept (like a right derived from a duty)
+
+No grammatical tense markers—temporal context is inferred or supplemented via words like:
+
+glae (past), anae (present), vroe (future)
+
+Degree adjectives (scale from 1–5):
+
+Zarek (slightly)
+
+Sirek (a bit)
+
+Merek (moderate/average)
+
+Karek (very)
+
+Durek (extremely)
+
+When used comparatively:
+
+A Sirek cold B = A is slightly colder than B
+(Durek just means “more extremely,” not “the most”)
+
+Multilevel comparisons:
+Use verb laren (from lar, sequence/order) + ordinal numbers.
+E.g., “This is second-best stew…” structure.
+
+Conditional prepositions:
+
+isnar = if (isel + narin, perspective + path)
+
+durnar = iff (durek + narin, finality + path)
+
+solnar = when (sol + narin, constancy + path)
+
+Unlike English, the condition comes first:
+
+Akhesen Voro isnar Thenaethenos Sero = If I awaken, you are changing
+
+Relisthenos isnar Vaestraethes Lero = If thinking, that one is just
+
+Chains:
+
+A isnar B durnar C solnar D — grammatically valid logic chain
+
+Word order is relatively free, as in French, provided suffixes align. Exceptions include ordered chains like conditionals or adverb stacking.
+
+Subjective/Subjunctive mood:
+
+Verb + isel (viewpoint/epistemic bias)
+
+Culturally central vocabulary:
+
+Vorelis: Rationality
+
+Vaestra: Justice
+
+Khaestra: Balance
+
+Ranaestra: Vengeance (literally: return to balance)
+
+Noeth: Unity
+
+Tharon: Responsibility and right as one
+
+Thardel: Duty
+
+Tharvar: Right
+
+Isel: Perspective
+
+Zehen: Rational dissolution
+
+Zavreth: Structural absurdity/loss of rational grounding
+
+Inthara: Memory / learned knowledge
+
+Thuer: Ignorance (complement to Inthara)
+
+Aesaes: The Whole (philosophical totality of existence)
+
+Names and Identity:
+
+Kaevos Linan: Civilian identity
+
+Kaevos Thalovare: Rejecting imperial claim
+
+Kaevos Vaelorith r’avremn Thalovare: Heir-apparent to imperial throne
+
+Aur Kaevos Vaelorith raes Thalovare: Coronated name (“Aur” = imperial title; “raes” = full extension of royal authority)
+
+Satirical nickname: rith (r + ith) = tyrant
+
+Imperial Linguistic Features:
+
+Retains more complex structures and archaic phonemes
+
+Less aggressive reform, but regularly updated
+
+Reflects imperial power network stability: balances adaptability and continuity
+
+Imperial family name prefixes (examples):
+
+Vaelorith: Supreme imperial lineage (discipline and oversight)
+
+Syrenar: Research and science families
+
+Caenatre: Diplomatic families
+
+Prefixes are cultural markers, not rigid titles. They reflect probable skill networks but don’t grant privileges automatically. They are fluid and update with generations or career shifts. Prestige and shame are tied to actions under shared prefixes.
+
+Power networks:
+
+Drenel = Power-networks (dre = administrative power, nel = network)
+
+Typically led by one or several families specializing across fields, acting as political factions
