@@ -1,11 +1,11 @@
 # Tyrants Universe: A Fully-Realized Civilizational Framework for My Future Novel
 
 ## Repo Introduction
-This is the place where I systemically organize and share the progressing framework of my novel, the work in progress name is Tyrants. You will know why.
-The files may not have a consistent language in them. It will vary between English, Chinese, French, and my fictional language with a totally different grammar as needed. 
-As per my previous need to share with friend, some raw documents were written in Chinese.
-For the purpose of getting most feedbacks and contributions, I will try to keep a mainly English version of each main file.
-Also because markdown readability is really a pain for heavily text-based projects, I will forgo the version control and use word documents.
+This is the place where I systemically organize and share the progressing framework of my novel, the work in progress name is Tyrants. You will know why.  
+The files may not have a consistent language in them. It will vary between English, Chinese, French, and my fictional language with a totally different grammar as needed.  
+As per my previous need to share with friend, some raw documents were written in Chinese.  
+For the purpose of getting most feedbacks and contributions, I will try to keep a mainly English version of each main file.  
+Also because markdown readability is really a pain for heavily text-based projects, I will forgo the version control and use word documents.  
 
 ## Overview
 Tyrants Universe is a hard science fiction meta-civilization design that simulates advanced interstellar societies through:
