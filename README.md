@@ -8,16 +8,15 @@ For the purpose of getting most feedbacks and contributions, I will try to keep 
 Also because markdown readability is really a pain for heavily text-based projects, I will forgo the version control and use word documents.  
 
 ## Overview
-Tyrants Universe is a hard science fiction meta-civilization design that simulates advanced interstellar societies through:
-- rigorously constructed languages,
-- economically viable interplanetary trade and travel systems,
-- logical legal/political infrastructure,
-- highly theoretical physics weapons and future military logistics,
-- and a socioculturally plausible divergence from Earth norms.
+Tyrants Universe is a hard science fiction through:
+- everything needs to make sense, things needs to have logical validity to exist, and have purpose to be created at all
+- interstellar civilizations and societies with social norms that are derived from speculated philosophical advancements that revamps old beliefs, reflected on language and other aspects
+- logical legal/political infrastructure, economic activities and interstellar logistics
+- highly theoretical physics weapons and future military logistics, economic and intel deployments, tactical rollouts, instead of Hollywood style pew pew orgy without formations and roles, or battlefield depth and width. I do have some cool weapons though.
 
 ## Goal
 To write the novel. Duh.
-To refine this universe with feedback from linguists, economists, legal scholars, sci-fi writers, and speculative designers.
+To refine this universe with feedback from linguists, economists, legal scholars, physisists (I really need to know if my weapons would work or not), sci-fi writers, and speculative designers.
 
 ## Several Interesting Concepts
 - **A whole new governance model**: An informed civic-participation based, audit-heavy and somewhat decentralize governance model based on meritocracy.
