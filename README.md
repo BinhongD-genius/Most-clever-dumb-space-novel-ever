@@ -12,7 +12,8 @@ Tyrants Universe is a hard science fiction through:
 - everything needs to make sense, things needs to have logical validity to exist, and have purpose to be created at all
 - interstellar civilizations and societies with social norms that are derived from speculated philosophical advancements that revamps old beliefs, reflected on language and other aspects
 - logical legal/political infrastructure, economic activities and interstellar logistics
-- highly theoretical physics weapons and future military logistics, economic and intel deployments, tactical rollouts, instead of Hollywood style pew pew orgy without formations and roles, or battlefield depth and width. I do have some cool weapons though.
+- highly theoretical physics weapons and future military logistics, economic and intel deployments, tactical rollouts, instead of Hollywood style pew pew orgy without formations and roles, or battlefield depth and width. Like come on, human already used formations, traps and specialized roles when they were hunting mammoths, and highly organized by Rome/Chinese Warring States era, no war was ever fought in mud pits with messy dance raves.
+- I do have some pretty cool weapons though, so the wars are still interesting and have actions.
 
 ## Goal
 To write the novel. Duh.
@@ -27,8 +28,8 @@ To refine this universe with feedback from linguists, economists, legal scholars
 ## Project Layout
 See [World_Structure.md](lore/World_Structure.md) for full map.
 
-- `world settings/`: core world documents.
-- `language/`: linguistic structure of Republic Standard (共和国标准语).
+- `world settings/`: core world documents. Including philosophies, government bodies, economic systems (mostly descriptive than modelized because it's a post-scarcity, hyper-rational world and our economic models simply don't apply well), military settings and more.
+- `language/`: linguistic structure of Republic Standard (共和国标准语). Separated for the convenience of managing glossery.
 - `docs/`: diagrams, maps, infographics.
 - `proposals/`: feedback folders by domain.
 
