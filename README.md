@@ -28,7 +28,7 @@ To refine this universe with feedback from linguists, economists, legal scholars
 ## Project Layout
 See [World_Structure.md](lore/World_Structure.md) for full map.
 
-- `world settings/`: core world documents. Including philosophies, government bodies, economic systems (mostly descriptive than modelized because it's a post-scarcity, hyper-rational world and our economic models simply don't apply well), military settings and more.
+- `world settings/`: core world documents. Including philosophies, government bodies, economic systems (mostly descriptive rather than modelized because it's a post-scarcity, hyper-rational world and our economic models don't apply), military settings and more.
 - `language/`: linguistic structure of Republic Standard (共和国标准语). Separated for the convenience of managing glossery.
 - `docs/`: diagrams, maps, infographics.
 - `proposals/`: feedback folders by domain.
